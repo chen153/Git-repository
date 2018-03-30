@@ -1,3 +1,4 @@
 Git is a distributed version system.
 Git is free software distributed under the GPL.
 Myname is ChenHanCheng.
+Myname is 陈汉城.
