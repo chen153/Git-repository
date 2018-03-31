@@ -2,3 +2,5 @@ hello
 world
 
 see you
+
+All you get is this text and a mostly barebones HTML document.
