@@ -5,3 +5,5 @@ hi i'm is Cheney
 welcome to ShenZhen
 
 from you are
+
+I'm from Guangzhou
